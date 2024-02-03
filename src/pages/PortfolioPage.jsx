@@ -1,7 +1,7 @@
 export const PortfolioPage = () => {
   return (
     <>
-      <p>text</p>
+      <p>text test</p>
     </>
   );
 };
